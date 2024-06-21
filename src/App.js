@@ -8,7 +8,7 @@ export const Introduction = () => {
 const App = ()=>{
   return(
     <div>
-   {/* {<Login/>} */}
+   <Login/>
    <User/>
 
     </div>
